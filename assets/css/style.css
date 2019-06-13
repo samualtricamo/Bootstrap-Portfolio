@@ -15,11 +15,11 @@ body {
 	min-height: calc(100vh - 264px);
 }
 
-.ST {
+p {
 	font-size: 40px;
-	margin-left: 109px;
 	color: white;
 	background-color: #4aaaa5;
+	margin-left: 80px;
 	margin-right: 780px;
 	text-align: center;
 	font-family: "Georgia";
